@@ -3,3 +3,8 @@ dist/
 
 #Logs
 .DS_Store
+logs/
+
+docker-volumes/
+
+.env
